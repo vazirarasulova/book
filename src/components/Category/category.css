@@ -1,0 +1,23 @@
+.category{
+  margin-top: 150px;
+  margin-bottom: 48px;
+}
+
+.category__title{
+  font-family: 'Rotterburg Stylish FREE';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 34px;
+  margin: 0;
+  margin-bottom: 38px;
+  color: #C9AC8C;
+  text-align: center;
+}
+
+.category__nav{
+  width: 800px;
+  margin: 0 auto;
+  margin-left: 400px;
+}
+

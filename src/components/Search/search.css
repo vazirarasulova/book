@@ -1,0 +1,55 @@
+.search{
+  max-width: 850px;
+  background: #191919;
+  box-shadow: 0px 4px 77px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  padding: 40px 76px 35px 144px;
+  margin: 0 auto;
+  position: absolute;
+  top: 400px;
+  left: 153px;
+}
+
+.search__title{
+  font-family: 'Rotterburg Stylish FREE';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 34px;
+  margin: 0;
+  color: #C9AC8C;
+  text-align: center;
+}
+
+.search__box{
+  width: 885px;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 13px;
+}
+
+.search__input{
+  font-family: 'Steinbeck';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 0.3);
+  background: #404040;
+  border-radius: 15px;
+  padding: 17px 403px 14px 28px;
+}
+
+.search__btn{
+  font-family: 'Steinbeck';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: #3C2710;
+  background: #C9AC8C;
+  border-radius: 15px;
+  margin-left: 14px;
+  padding: 16px 47px 16px 68px;
+
+}

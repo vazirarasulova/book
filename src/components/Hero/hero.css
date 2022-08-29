@@ -1,0 +1,52 @@
+
+.main__inner{
+  background-image: url("../../assets/images/Img/home-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding: 45px 0px 88px 86px;
+  margin: 0 auto;
+  margin-top: 45px;
+  margin-right: 77px;
+  margin-left: 100px;
+  border-radius: 21px;
+  
+}
+
+.main__box{
+  width: 337px;
+}
+
+.main__title{
+  font-family: 'Rotterburg Stylish FREE';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 61px;
+  line-height: 67px;
+  color: #C9AC8C;
+  margin: 0;
+}
+
+.main__line{
+  width: 57px;
+  height: 3px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  position: absolute;
+}
+
+.main__line-second{
+  background: rgba(255, 255, 255, 0.6);
+  left: 150px;
+}
+
+.main__line-third{
+  background: rgba(255, 255, 255, 0.6);
+  left: 213px;
+}
+
+.main__line-fourth{
+  background: rgba(255, 255, 255, 0.6);
+  left: 275px;
+}

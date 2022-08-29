@@ -1,0 +1,149 @@
+.single{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.single__img{
+  object-fit: cover;
+  border-radius: 0px 50px 50px 0px;
+}
+
+.single__year{
+  width: 481px;
+  display: flex;
+  margin: 0;
+  margin-left: 20px;
+}
+
+.single__subtext{
+  font-family: 'Visuelt Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 144.4%;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.single__years{
+font-family: 'Rotterburg Stylish FREE';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 144.4%;
+color: #C9AC8C;
+}
+
+.single__country{
+  font-family: 'Visuelt Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 144.4%;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.single__info{
+  width: 672px;
+  margin: 0 auto;
+  margin-right: 78px;
+  margin-bottom: 53px;
+  margin-left: 48px;
+}
+
+.single__title{
+  font-family: 'Rotterburg Stylish FREE';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 53px;
+  text-align: start;
+  color: #C9AC8C;
+}
+
+.single__text{
+  font-family: 'Steinbeck';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 144.4%;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.single__books{
+  margin-left: 60px;
+}
+
+.single__subbooks{
+  display: flex;
+}
+
+.single__books-title{
+  display: inline-block;
+  font-family: 'Rotterburg Stylish FREE';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 34px;
+  color: #C9AC8C;
+  margin: 0;
+  margin-bottom: 13px;
+  margin-right: 300px;
+}
+
+.books__link{
+  display: inline-block;
+}
+
+.single__bokks-text{
+  font-family: 'Steinbeck';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+.books__list{
+  width: 100%;
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.books__item{
+  width: 165px;
+  margin-right: 42px;
+  border-radius: 15px;
+}
+
+.books__link{
+  text-decoration: none;
+}
+
+.single__books-img{
+  width: 165px;
+  height: 246px;
+  border-radius: 15px;
+}
+
+.books__name{
+  font-family: 'Rotterburg Stylish FREE';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+  color: #C9AC8C;
+}
+
+.books__comments{
+  font-family: 'Visuelt Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 144.4%;
+  color: rgba(255, 255, 255, 0.6);
+}
